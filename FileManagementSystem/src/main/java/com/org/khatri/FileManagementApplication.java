@@ -14,6 +14,7 @@ public class FileManagementApplication {
 		System.out.println("Welcome to our File Management Application.");
 		System.out.println("HELLO!!");
 		System.out.println("This Application is developed by Shweta Khatri!!");
+		System.out.println("-------------------------------------------------------------------------------------------");
 		do {
 
 			System.out.println("Please select required option from below menu :");
